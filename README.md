@@ -13,7 +13,7 @@ Jsem frontendový vývojář s dvouletou zkušeností v oblasti webového vývoj
 
 ## Programátor (Frontend & Backend)
 
-### Vlastní zakázky (aktuální 1,5 roku)
+### Vlastní zakázky (aktuální 2 roky) - aktuální
  * Implementace [api.mapy.cz](https://api.mapy.cz) na web (geokódování a značkování míst) 🗺️📍
  * Zprovoznění na 10 webech poptávkový formulář pomocí PHPmaileru 📥
  * Drobné úpravý na wordpress webech 🙅🏽‍♂️🤬
@@ -21,14 +21,21 @@ Jsem frontendový vývojář s dvouletou zkušeností v oblasti webového vývoj
  * Navhnutý a naprogramovaný [partnerský quiz](http://reknetesito.cz) v React.tsx. Ověřování platnosti slevomat voucheru. Ukladání dat do mongoDB
 
 
-### MagicWare s.r.o. (aktuální 1,5 roku)
+### MagicWare s.r.o. (2 roky) - aktuální
  * Každodenní opravy a řešení problémů asi na 60 cestovních kancelářích 👨🏽‍🏭🤔🛩️
  * Odhadování a plánování projektů s manažery a ostatními programátory 💵🗓️👨🏽‍💼
  * Pravidelné vzdělávání se 📚🧮
  * Od základu navrhnutá a naprogramovaná rezervace, včetně platebních bran pro [tiptravel.sk](https://www.tiptravel.sk) 🔒💶📋👨🏽‍💻
  * Vývoj blogu pro cestovní kancelář 📰🛩️
- * Rozpracovaný CRM systém v React.tsx 📲💻
+ * Rozpracovaný CRM systém v React.tsx 📲💻🙋🏽‍♂️
  * Vytváření komponent pro cestovní kanceláře a individuální renderování 🛩️🚠🚢
+
+
+### 1. Web IT s.r.o. (1 měsíc)
+ * Vytváření task formuláře v reactu pro jejich interní systém 🙋🏽‍♂️📝
+ * Úpravy ve Vue
+ * Naučil jsem se tam základy s dockerem
+ * Malé úpravy v php projectech
 
 
 <br />
